@@ -5,7 +5,7 @@ export default function Home() {
     <main className="min-h-screen bg-black text-white p-6">
       <div className="max-w-3xl mx-auto text-center pt-16">
         <h1 className="text-5xl md:text-7xl font-bold text-green-400 mb-6">
-          链上3D预测大师
+          链上AI 3D预测大师
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-10 leading-relaxed">
           每日20:30 100%同步中国福利彩票3D官方号码<br />
